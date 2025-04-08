@@ -1,0 +1,23 @@
+{
+  "name": "employee-management-app",
+  "version": "1.0.0",
+  "description": "A command-line application for managing employee data, including departments, roles, and employee information.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "employee",
+    "management",
+    "database",
+    "cli"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
